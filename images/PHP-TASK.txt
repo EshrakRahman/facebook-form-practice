@@ -1,0 +1,28 @@
+1. Array Flip
+2. Array shift
+3. Middle Value Adding in Array
+4. Array POP
+5. Loop assignment will be given by Rony vai After Class...
+
+
+VS code Plugin
+=====================
+
+auto file name
+bootstrap 4 front
+creates files and folder
+css auto prefix
+dotenv
+flatland monokai
+laravel 5 snippets
+laravel blade snippets
+laravel goto view
+python
+sublime text keymap
+vetur
+vue 2 snippets
+vue vscode snippets
+wordpress developer
+wordpress snippet
+wordpress toolbox
+
